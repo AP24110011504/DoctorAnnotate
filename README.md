@@ -239,6 +239,8 @@ For issues or questions, please check:
 
 ### 🩺 Annotation Page
 ![Annotation](DoctorAnnotate%20screenshots/Screenshot%202026-04-18%20130352.png)
+![Annotation](DoctorAnnotate%20screenshots/Screenshot%202026-04-18%20130418.png)
+![Annotation](DoctorAnnotate%20screenshots/Screenshot%202026-04-18%20130436.png)
 
 ### 📊 Dataset View
-![Dataset](DoctorAnnotate%20screenshots/Screenshot%202026-04-18%20130418.png)
+![Dataset](DoctorAnnotate%20screenshots/Screenshot%202026-04-18%20130549.png)
