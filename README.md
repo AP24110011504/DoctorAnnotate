@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Medical Image Annotation Web App
 
 A comprehensive web application for medical image annotation with local storage, built with Next.js 14 (App Router), React, TypeScript, and Tailwind CSS.
@@ -224,3 +225,7 @@ For issues or questions, please check:
 ---
 
 **Note:** This is a local-first application. All data stays in your browser until explicitly cleared.
+=======
+# DoctorAnnotate
+DoctorAnnotate is a medical image annotation platform where doctors label X-rays with disease, severity, and confidence, including precise region marking. It converts clinical expertise into structured, high-quality datasets for training reliable healthcare AI models.
+>>>>>>> d8dcc30827fadb0f5fb26a06239ccfd824d0d2ec
