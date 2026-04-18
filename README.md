@@ -232,3 +232,13 @@ For issues or questions, please check:
 - Vekshitha  
 - Deepthi Sri  
 
+## 📸 Screenshots
+
+### 🔐 Login Page
+![Login](DoctorAnnotate%20screenshots/Screenshot%202026-04-18%20130320.png)
+
+### 🩺 Annotation Page
+![Annotation](DoctorAnnotate%20screenshots/Screenshot%202026-04-18%20130352.png)
+
+### 📊 Dataset View
+![Dataset](DoctorAnnotate%20screenshots/Screenshot%202026-04-18%20130418.png)
