@@ -229,8 +229,8 @@ For issues or questions, please check:
 ## 👨‍💻 Contributors
 
 - Dinesh Chitiprolu  
-- Vekshitha  
-- Deepthi Sri  
+- Vekshitha Kutagulla 
+- Deepthi Sri Paricharla 
 
 ## 📸 Screenshots
 
